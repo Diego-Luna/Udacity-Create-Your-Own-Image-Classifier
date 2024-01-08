@@ -1,5 +1,6 @@
 .DS_Store
-
+checkpoint-ip.pth
+checkpoint.pth
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
