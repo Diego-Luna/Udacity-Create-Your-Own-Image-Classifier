@@ -1,4 +1,4 @@
-name: udacity-2
+name: udacity
 channels:
   - conda-forge
   - defaults
