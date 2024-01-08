@@ -33,7 +33,7 @@ The project includes key Python scripts:
 - `predict.py` - For making predictions using the trained model.
 
 ### Train
-- Basic usage: python train.py data_directory
+- Basic usage: ```python train.py data_directory```
 - Prints out training loss, validation loss, and validation accuracy as the network trains
 - Options:
   - Set directory to save checkpoints: ```python train.py data_dir --save_dir save_directory```
